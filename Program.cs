@@ -30,6 +30,7 @@ namespace szineszek
             }
 
             Console.WriteLine($"A sorok száma:{objektum.Count}");
+            Console.WriteLine($"fc vok");
 
         }
     }
